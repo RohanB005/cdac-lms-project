@@ -163,7 +163,11 @@ npm run dev
 
 # 📊 Repository Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,nodejs,express,postgres,git,github,vscode,postman,npm" />
+</p>
 
 ---
 
@@ -185,7 +189,7 @@ npm run dev
 
 **Rohan Barkade**
 
-PG-DAC Student • CDAC
+PGCP-AC Student • CDAC
 
 ---
 
@@ -208,7 +212,5 @@ If you found this project helpful, consider giving it a **⭐ Star** on GitHub.
 ---
 
 <div align="center">
-
-### Made with ❤️ during the CDAC GenAI Workshop
 
 </div>
